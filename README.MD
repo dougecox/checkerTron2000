@@ -9,3 +9,8 @@ how to interact with the game (in particular how to make moves, which was up to 
 any notes on implementation strategy
 
 a TODO section on what did not get implemented yet
+additional things to figure out : 
+  having the htlm tables and current pieces selected pass possible paths to next move, 
+  display board pieces, 
+  keep track of board and backend and it reflect current game dynamics like mouseover,
+  logic for the checkers and game play
